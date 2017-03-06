@@ -2,8 +2,8 @@
 
 [gimmick:theme](spacelab)
 
-[about](/pages/about.md)
-[mdwiki](/mdwiki/home.md)
+[about](about.md)
+[mdwiki](mdwiki/home.md)
 
 <!--
 [Change the Language]()
