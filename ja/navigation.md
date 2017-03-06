@@ -1,9 +1,9 @@
-# memoru wiki
+# memo
 
 [gimmick:theme](spacelab)
 
-[about](about.md)
-[mdwiki](mdwiki/home.md)
+[about](pages/about.md)
+[mdwiki](pages/mdwiki/home.md)
 
 <!--
 [Change the Language]()
